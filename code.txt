@@ -5,3 +5,8 @@ print("hello world")
 print("hello bye")
 print("bye bye")
 print("bye bye bye")
+
+if a=b:
+	print(a)
+else:
+	print('end')
